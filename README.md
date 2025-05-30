@@ -1,4 +1,4 @@
-# Taxi Driver Guiding System with Deep Reinforcement Learning
+# Taxi Driver Guiding System with DRL
 
 In everyday life, we observe that experienced taxi drivers tend to know where and when high-value rides are available, and will intentionally move toward these areas after dropping off passengers to optimize their earnings for the day. The concentration of many drivers near airports or train stations is a good example. Novice drivers, however, are unfamiliar with the environment and can only wait in place for the next passenger or casually explore the surrounding area, resulting in potentially lower earnings than skilled drivers.
 
